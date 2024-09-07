@@ -22,3 +22,17 @@ html, body {
     
 }
 
+#navBar {
+    font-size: 20px; /* Adjust the font size as needed */
+    text-align: center; /* Center the text */
+    padding: 1px; /* Adjust the padding as needed */
+    color: white;
+    
+}
+
+#navBar a {
+    color: white;
+    text-decoration: none;
+    margin: 5px; /* Adjust the margin as needed */
+}
+
